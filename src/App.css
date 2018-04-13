@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+/* .App-logo {
+  animation: App-logo-spin infinite 1s linear;
+  height: 80px;
+} */
+
+#poop {
+  border:2px;
+  border-style: solid;
+    border-color: red;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+/* .App-title {
+  font-size: 1.5em;
+} */
+
+/* .App-intro {
+  font-size: large;
+} */
+
+body {
+  background: #556270;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF6B6B, #556270);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF6B6B, #556270); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+/* @keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
